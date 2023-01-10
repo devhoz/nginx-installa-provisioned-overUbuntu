@@ -1,3 +1,6 @@
+**For berief do follow my article with refrence 
+at https://medium.com/@hozaifauzair/terraform-deploy-nginx-server-on-public-subnet-modules-iac-c2e46111e0a
+
 Terraform: Deploy Nginx Server on Public Subnet Modules (Iac)
 =============================================================
 
